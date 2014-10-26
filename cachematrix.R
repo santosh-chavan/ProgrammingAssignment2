@@ -40,3 +40,7 @@ cacheSolve <- function(x=matrix(), ...) {
   m
 }
 
+#Acknowledgement:
+
+#For part of the work, the primer on coursera of this particular implementation was helpful. Apart from that, for some errors, I have referred 
+# stackoverflow correct some errors during execution. Thanks to Dr. Peng and team for wonderful teaching.
